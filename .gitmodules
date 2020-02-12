@@ -1,0 +1,3 @@
+[submodule "BLAKE3.Benchmarks/ReferenceImpl"]
+	path = BLAKE3.Benchmarks/ReferenceImpl
+	url = git@github.com:raftario/blake3_c.git
